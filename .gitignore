@@ -1,0 +1,6 @@
+# configuration file (sensitive data)
+config.h
+
+# compiled binary
+*.bin
+
